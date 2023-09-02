@@ -2,7 +2,7 @@ package com.example.gittest;
 
 public class Jhcode33 {
 
-    private String name;
+    private String named;
     private String password;
 
     public void gitTest(String name){
